@@ -1,0 +1,5 @@
+﻿  ConsoleApplication_Server.cpp
+d:\anil sql\visualc++_projects\consoleapplication_server\consoleapplication_server\consoleapplication_server.cpp(37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+  ConsoleApplication_Server.vcxproj -> D:\Anil sql\VisualC++_Projects\ConsoleApplication_Server\Debug\ConsoleApplication_Server.exe
+  ConsoleApplication_Server.vcxproj -> D:\Anil sql\VisualC++_Projects\ConsoleApplication_Server\Debug\ConsoleApplication_Server.pdb (Partial PDB)

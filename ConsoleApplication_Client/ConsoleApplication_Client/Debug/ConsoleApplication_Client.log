@@ -1,0 +1,7 @@
+﻿ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__connect@12 referenced in function _main
+ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__htons@4 referenced in function _main
+ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__inet_addr@4 referenced in function _main
+ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__recv@16 referenced in function _main
+ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__socket@12 referenced in function _main
+ConsoleApplication_Client.obj : error LNK2019: unresolved external symbol __imp__WSAStartup@8 referenced in function _main
+D:\Anil sql\VisualC++_Projects\ConsoleApplication_Client\Debug\ConsoleApplication_Client.exe : fatal error LNK1120: 6 unresolved externals
